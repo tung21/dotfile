@@ -1,0 +1,8 @@
+alias v='vim'
+alias h='history'
+alias cl="clear && ls -alh"
+alias install="sudo apt-get install"
+alias update="sudo apt-get update"
+alias upgrade="sudo apt-get upgrade"
+alias ngrep="grep -n"
+alias rla="source ~/.bashrc"
